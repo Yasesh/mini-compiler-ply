@@ -1,10 +1,10 @@
-# 🧩 Mini Compiler using Python (PLY)
+#  Mini Compiler using Python (PLY)
 
 This project implements a **Mini Compiler** in Python that accepts arithmetic expressions and control structures, verifies syntax and semantics, and generates **intermediate and optimized code**.
 
 ---
 
-## 🔍 Features
+##  Features
 - Lexical Analysis (Tokenization)
 - Syntax Analysis using PLY (Yacc)
 - Semantic Checking (Symbol Table)
@@ -14,7 +14,7 @@ This project implements a **Mini Compiler** in Python that accepts arithmetic ex
 
 ---
 
-## 🧠 Example
+##  Example
 
 ### **Input:**
 ```c
